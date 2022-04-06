@@ -123,7 +123,6 @@ int main() {
   bool boardFull = isBoardFull();
  // bool gameEnded = false;
   int playerChoice;
-  BasicRule();
   PrintBoard();  
   
   do{
